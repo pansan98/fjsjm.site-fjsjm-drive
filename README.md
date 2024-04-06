@@ -22,5 +22,5 @@
         - アクションフック、フィルターフック群
     - ┗includes
         - configや定数設定
-    - templates
+    - ┗templates
         - viewファイル群
